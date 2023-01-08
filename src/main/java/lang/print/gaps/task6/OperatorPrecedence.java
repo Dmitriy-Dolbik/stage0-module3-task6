@@ -8,7 +8,7 @@ public class OperatorPrecedence {
         System.out.println(eight);//eight is expected to be 8
         boolean firstBool = false;
         boolean secondBool = false;
-        boolean thirdBool = false;
+        boolean thirdBool = 1 == 1;
         boolean fourthBool = 4 <= 101;
         int varSix = 17;
 
